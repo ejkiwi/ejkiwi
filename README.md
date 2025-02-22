@@ -9,7 +9,7 @@
 
 <!-- 인사말 -->
 ## 안녕하세요?
-저는...!! 곧 인공지능 짱이 될... 노력짱입니다  
+#### 저는...!! 곧 인공지능 짱이 될... 노력짱입니다  
 <br>
 
 <!-- 오른쪽: GitHub Stats -->
@@ -25,10 +25,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eonjikiwi)](https://solved.ac/eonjikiwi)
 <br>
-
+<br>
+<br>
+<br>
 
 <div align="center">
-    <br>
-    <br>
     <h3>˚₊ ˚ ‧₊ .:･˚₊ ˚ ‧₊ .:･˚₊ *˚˚₊ ˚ ‧₊ .:･˚₊ ˚ ‧₊ .:･˚₊ *˚˚₊ ˚ ‧₊ .:･˚₊ ˚ ‧₊ .:･˚₊ *˚˚₊ ˚ ‧₊ .: ˚ ‧₊ .:･˚₊ *˚˚₊ ˚ ‧₊</h3>
 </div>
