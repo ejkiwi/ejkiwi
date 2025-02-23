@@ -13,7 +13,7 @@
 <br>
 
 <!-- 오른쪽: GitHub Stats -->
-<a href="https://solved.ac/eonjikiwi"><img align="right" src="https://github-readme-stats.vercel.app/api?username=ejkiwi&show_icons=true&theme=graywhite&cache_seconds=86400"/></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ejkiwi&show_icons=true&theme=graywhite&cache_seconds=86400"/>
 
 <!-- 왼쪽: 소개 -->
 
